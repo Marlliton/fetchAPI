@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, #362773, #1E7293);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.container {
+    margin: 100px 0px 0px auto;
+}
+
+label.hora {
+
+    display: inline-block;
+    width: 90px;
+}
